@@ -6,3 +6,6 @@ Aquí va un párrafo con negrita, cursiva, subrayado y colores.
 
 
 Y esto de arriba es la foto de unas Suricatas.
+
+
+nuevos cambios agregados para la segunda version de ejemplo
